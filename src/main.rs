@@ -1,5 +1,6 @@
 mod ownership;
 mod complex;
+mod trait_life;
 
 fn main() {
     // println!("Hello, world!");
@@ -12,5 +13,6 @@ fn main() {
     // ownership::ex2::main();
     // ownership::ex3::main();
     // ownership::ex4::main();
-    complex::ex1::main();
+    // complex::ex1::main();
+    trait_life::ex1::main();
 }
